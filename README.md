@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bernard Mag 😁
+## Bem-vindo(a) ao perfil de Bernard 😎
 
  <div>
    <a href="https://github.com/BernardMag">
